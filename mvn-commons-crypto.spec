@@ -4,7 +4,7 @@
 #
 Name     : mvn-commons-crypto
 Version  : 1.0.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/apache/commons-crypto/archive/CRYPTO-1.0.0.tar.gz
 Source0  : https://github.com/apache/commons-crypto/archive/CRYPTO-1.0.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/commons/commons-crypto/1.0.0/commons-crypto-1.0.0.jar
